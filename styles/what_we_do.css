@@ -1,0 +1,42 @@
+.what_we_do {
+  width: 1920px;
+  height: 445px;
+  margin-left: -325px;
+  margin-top: -3px;
+  position: relative;
+  background-color: #f1f2f4; }
+  .what_we_do .box-text {
+    width: 979px;
+    height: 54px;
+    font-size: 24px;
+    text-align: center;
+    margin-left: 471px;
+    margin-top: 69px;
+    position: absolute;
+    color: #78797a; }
+
+.icon .block_icon {
+  margin-left: 384px; }
+  .icon .block_icon .kkk {
+    border: 32px solid #f1f2f4;
+    margin-top: 161px;
+    display: flow; }
+
+.name_icon {
+  font-size: 22px;
+  margin-left: 300px;
+  font-family: 'Open Sans', sans-serif;
+  color: #252525; }
+  .name_icon span {
+    margin-left: 165px; }
+
+.blue {
+  color: #3c9ad8; }
+
+.red {
+  color: #fe476a; }
+
+.black {
+  text-decoration: line-through; }
+
+/*# sourceMappingURL=what_we_do.css.map */

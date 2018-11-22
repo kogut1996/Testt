@@ -1,0 +1,200 @@
+.our_prices{
+  width: 1920px;
+  height: 1164px;
+  background-color: #f1f2f4;
+  margin-top: 5313px;
+  position: relative;
+  .our_prices_text{
+    font-size: 38px;
+    color: #2c303c;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 71px;
+
+  }
+  .our_prices_text1{
+    text-align: center;
+    font-size: 14px;
+    color: #7e889b;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 35px;
+  }
+  .our_prices_block{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: 40px;
+    .block_prices1{
+      width: 301px;
+      height: 322px;
+      background-color: #499fae;
+      .prices_text{
+        font-size: 24px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 129px;
+        margin-top: 53px;
+      }
+      .prices_text1{
+        font-size: 22px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 55px;
+        margin-left: 69px;
+      }
+      .prices_text2{
+        font-size: 82px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        margin-left: 100px;
+        margin-top: -30px;
+
+
+
+      }
+    }
+    .block_prices2{
+      width: 379px;
+      height: 381px;
+      background-color: #f7ca2d;
+      margin-left: 21px;
+      .prices_text{
+        font-size: 24px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 97px;
+        margin-top: 62px;
+      }
+      .prices_text1{
+        font-size: 22px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 55px;
+        margin-left: 101px;
+      }
+      .prices_text2{
+        font-size: 97.5px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        margin-left: 139px;
+        margin-top: -30px;
+
+
+
+      }
+    }
+    .block_prices3{
+      margin-left: 24px;
+      width: 301px;
+      height: 322px;
+      background-color: #21c38a;
+      .prices_text{
+        font-size: 24px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 129px;
+        margin-top: 53px;
+      }
+      .prices_text1{
+        font-size: 22px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 55px;
+        margin-left: 69px;
+      }
+      .prices_text2{
+        font-size: 82px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        margin-left: 100px;
+        margin-top: -30px;
+
+
+
+      }
+    }
+  }
+  .our_prices_block1{
+    display: flex;
+    justify-content: center;
+    .block_prices4{
+      display: flex;
+      flex-direction: column;
+      width: 301px;
+      height: 392px;
+      background-color: white;
+      text-align: center;
+      color:#2c303c;
+      font-size: 22px;
+      font-family: 'Open Sans', sans-serif;
+      .options{
+        margin-top: 30px;
+      }
+      .support{
+        margin-top: 15px;
+      }
+      .buy{
+        width: 142px;
+        height: 41px;
+        background-color: #499fae;
+        color: white;
+      }
+    }
+    .block_prices5 {
+      width: 379px;
+      height: 450px;
+      background-color: white;
+      margin-left: 21px;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      color: #2c303c;
+      font-size: 22px;
+      font-family: 'Open Sans', sans-serif;
+        .options {
+          margin-top: 67px;
+        }
+        .support {
+          margin-top: 20px;
+        }
+        .buy2 {
+          width: 142px;
+          height: 41px;
+          background-color: #f7ca2d;
+          color: white;
+        }
+      }
+    }
+    .block_prices6{
+      display: flex;
+      flex-direction: column;
+      margin-left: 23px;
+      width: 301px;
+      height: 392px;
+      background-color: white;
+      text-align: center;
+      color:#2c303c;
+      font-size: 22px;
+      font-family: 'Open Sans', sans-serif;
+      .options{
+        margin-top: 30px;
+      }
+      .support{
+        margin-top: 15px;
+      }
+      .buyy{
+        width: 142px;
+        height: 41px;
+        background-color: #21c38a;
+        color: white;
+      }
+
+    }
+
+  }
+
+

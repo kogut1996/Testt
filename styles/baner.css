@@ -1,0 +1,29 @@
+.baner {
+  margin-left: 325px; }
+
+.fon {
+  background-color: rgba(60, 154, 216, 0.8);
+  position: absolute;
+  width: 1920px;
+  height: 604px;
+  margin-left: -325px;
+  margin-top: -607px; }
+  .fon .text_border {
+    color: white;
+    font-size: 24px;
+    line-height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 373px;
+    padding-top: 232px; }
+    .fon .text_border .extra-bold {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold; }
+
+.ppp {
+  font-size: 72px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: white;
+  margin-left: 373px; }
+
+/*# sourceMappingURL=baner.css.map */

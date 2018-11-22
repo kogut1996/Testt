@@ -1,0 +1,779 @@
+.baner {
+  margin-left: 325px; }
+
+.fon {
+  background-color: rgba(60, 154, 216, 0.8);
+  position: absolute;
+  width: 1920px;
+  height: 604px;
+  margin-left: -348px;
+  margin-top: -607px; }
+  .fon .text_border {
+    color: white;
+    font-size: 24px;
+    line-height: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 373px;
+    padding-top: 232px; }
+    .fon .text_border .extra-bold {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold; }
+
+.ppp {
+  font-size: 72px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: white;
+  margin-left: 373px; }
+
+.feedback {
+  width: 1920px;
+  height: 169px;
+  background-color: #3c9ad8;
+  display: flex;
+  justify-content: center; }
+  .feedback .feedback_box {
+    margin-top: 37px;
+    margin-left: 130px; }
+
+footer {
+  width: 1920px;
+  height: 80px;
+  background-color: #2a83bf;
+  display: flex;
+  justify-content: center; }
+  footer .footer_box {
+    margin-top: 20px;
+    margin-left: 850px;
+    position: absolute; }
+
+header {
+  width: 1920px;
+  height: 110px;
+  background: -webkit-linear-gradient(top, rgba(19, 19, 19, 0.85) 0%, rgba(28, 28, 28, 0.9) 15%, rgba(17, 17, 17, 0.85) 29%, rgba(0, 0, 0, 0.7) 31%, #2c2c2c 49%, #2b2b2b 49%, #474747 77%, #666666 86%, #595959 88%, #4c4c4c 100%);
+  position: absolute; }
+  header .logo {
+    margin-left: 360px;
+    margin-top: 16px; }
+  header .menu_wrapper .menu {
+    float: right;
+    margin-top: -62px;
+    margin-right: 360px; }
+    header .menu_wrapper .menu a {
+      color: white;
+      margin-left: 26px;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      text-decoration: none; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  overflow-x: hidden; }
+
+.our_prices {
+  width: 1920px;
+  height: 1164px;
+  background-color: #f1f2f4;
+  margin-top: 5313px;
+  position: relative; }
+  .our_prices .our_prices_text {
+    font-size: 38px;
+    color: #2c303c;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 71px; }
+  .our_prices .our_prices_text1 {
+    text-align: center;
+    font-size: 14px;
+    color: #7e889b;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 35px; }
+  .our_prices .our_prices_block {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: 40px; }
+    .our_prices .our_prices_block .block_prices1 {
+      width: 301px;
+      height: 322px;
+      background-color: #499fae; }
+      .our_prices .our_prices_block .block_prices1 .prices_text {
+        font-size: 24px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 129px;
+        margin-top: 53px; }
+      .our_prices .our_prices_block .block_prices1 .prices_text1 {
+        font-size: 22px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 55px;
+        margin-left: 69px; }
+      .our_prices .our_prices_block .block_prices1 .prices_text2 {
+        font-size: 82px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        margin-left: 100px;
+        margin-top: -30px; }
+    .our_prices .our_prices_block .block_prices2 {
+      width: 379px;
+      height: 381px;
+      background-color: #f7ca2d;
+      margin-left: 21px; }
+      .our_prices .our_prices_block .block_prices2 .prices_text {
+        font-size: 24px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 97px;
+        margin-top: 62px; }
+      .our_prices .our_prices_block .block_prices2 .prices_text1 {
+        font-size: 22px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 55px;
+        margin-left: 101px; }
+      .our_prices .our_prices_block .block_prices2 .prices_text2 {
+        font-size: 97.5px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        margin-left: 139px;
+        margin-top: -30px; }
+    .our_prices .our_prices_block .block_prices3 {
+      margin-left: 24px;
+      width: 301px;
+      height: 322px;
+      background-color: #21c38a; }
+      .our_prices .our_prices_block .block_prices3 .prices_text {
+        font-size: 24px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 129px;
+        margin-top: 53px; }
+      .our_prices .our_prices_block .block_prices3 .prices_text1 {
+        font-size: 22px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 55px;
+        margin-left: 69px; }
+      .our_prices .our_prices_block .block_prices3 .prices_text2 {
+        font-size: 82px;
+        color: #fefefe;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        margin-left: 100px;
+        margin-top: -30px; }
+  .our_prices .our_prices_block1 {
+    display: flex;
+    justify-content: center; }
+    .our_prices .our_prices_block1 .block_prices4 {
+      display: flex;
+      flex-direction: column;
+      width: 301px;
+      height: 392px;
+      background-color: white;
+      text-align: center;
+      color: #2c303c;
+      font-size: 22px;
+      font-family: 'Open Sans', sans-serif; }
+      .our_prices .our_prices_block1 .block_prices4 .options {
+        margin-top: 30px; }
+      .our_prices .our_prices_block1 .block_prices4 .support {
+        margin-top: 15px; }
+      .our_prices .our_prices_block1 .block_prices4 .buy {
+        width: 142px;
+        height: 41px;
+        background-color: #499fae;
+        color: white; }
+    .our_prices .our_prices_block1 .block_prices5 {
+      width: 379px;
+      height: 450px;
+      background-color: white;
+      margin-left: 21px;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      color: #2c303c;
+      font-size: 22px;
+      font-family: 'Open Sans', sans-serif; }
+      .our_prices .our_prices_block1 .block_prices5 .options {
+        margin-top: 67px; }
+      .our_prices .our_prices_block1 .block_prices5 .support {
+        margin-top: 20px; }
+      .our_prices .our_prices_block1 .block_prices5 .buy2 {
+        width: 142px;
+        height: 41px;
+        background-color: #f7ca2d;
+        color: white; }
+  .our_prices .block_prices6 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 23px;
+    width: 301px;
+    height: 392px;
+    background-color: white;
+    text-align: center;
+    color: #2c303c;
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif; }
+    .our_prices .block_prices6 .options {
+      margin-top: 30px; }
+    .our_prices .block_prices6 .support {
+      margin-top: 15px; }
+    .our_prices .block_prices6 .buyy {
+      width: 142px;
+      height: 41px;
+      background-color: #21c38a;
+      color: white; }
+
+.our_work {
+  width: 1920px;
+  height: 533px;
+  background-color: #2c303c;
+  position: absolute;
+  margin-top: 4780px; }
+  .our_work .our_work_text {
+    margin-top: 71px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center; }
+  .our_work .our_work_text1 {
+    margin-top: 33px;
+    text-align: center;
+    font-size: 14px;
+    color: #7e889b;
+    font-family: 'Open Sans', sans-serif; }
+  .our_work .our_work_block {
+    display: flex;
+    position: absolute;
+    margin-left: 374px;
+    margin-top: 43px; }
+    .our_work .our_work_block .block {
+      margin-left: 23px;
+      width: 205px;
+      height: 204px;
+      background-color: #b7b7b7;
+      border: 5px solid white; }
+
+.what_we_do {
+  width: 1920px;
+  height: 445px;
+  margin-top: -3px;
+  position: relative;
+  background-color: #f1f2f4; }
+  .what_we_do .box-text {
+    font-size: 24px;
+    text-align: center;
+    margin-left: 471px;
+    margin-top: 69px;
+    position: absolute;
+    color: #78797a; }
+    .what_we_do .box-text .blue {
+      color: #3c9ad8; }
+    .what_we_do .box-text .red {
+      color: #fe476a; }
+    .what_we_do .box-text .black {
+      text-decoration: line-through; }
+
+.icon {
+  display: flex;
+  justify-content: center; }
+  .icon .block_icon {
+    margin-top: 165px;
+    position: absolute;
+    display: flex;
+    justify-content: center; }
+    .icon .block_icon .seo1 .img1 {
+      margin-left: 60px; }
+    .icon .block_icon .seo1 .seo2 {
+      margin-left: 50px;
+      margin-top: 20px;
+      font-size: 22px;
+      font-family: 'Open Sans', sans-serif;
+      color: #252525;
+      display: flex;
+      justify-content: center; }
+
+.how_we-work {
+  width: 1920px;
+  height: 3566px;
+  background-color: #2c303c;
+  position: absolute; }
+  .how_we-work .top .up1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    color: #fefefe;
+    text-align: center;
+    margin-top: 20px; }
+  .how_we-work .top .up2 {
+    color: #7e889b;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-top: 20px; }
+  .how_we-work .ffgg {
+    margin-top: 21px;
+    margin-left: 951px; }
+  .how_we-work .rozrobka {
+    width: 185px;
+    height: 31px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #fefefe;
+    background-color: #23c7c8;
+    margin-left: 423px;
+    margin-top: 35px; }
+  .how_we-work .text1 {
+    width: 430px;
+    height: 53px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 38px;
+    margin-left: 422px; }
+  .how_we-work .text3 {
+    color: #7e889b;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    margin-left: 423px;
+    margin-top: 36px; }
+  .how_we-work .foto_rozrobka {
+    margin-left: 1168px;
+    position: absolute;
+    overflow: hidden;
+    padding: 10px;
+    border-radius: 50%;
+    border: 14px dotted #23c7c8;
+    margin-top: 15px; }
+  .how_we-work .icon_rozrobka {
+    margin-left: 1040px;
+    position: absolute;
+    margin-top: -160px; }
+  .how_we-work .text4 {
+    width: 143px;
+    height: 31px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #252525;
+    background-color: white;
+    margin-left: 423px;
+    margin-top: 35px; }
+  .how_we-work .web .foto_web {
+    margin-left: 579px;
+    margin-top: 45px; }
+  .how_we-work .web .foto_web1 {
+    width: 326px;
+    height: 326px;
+    margin-top: -350px;
+    margin-left: 417px;
+    padding: 10px;
+    border-radius: 50%;
+    border: 14px dotted #8dc63f; }
+  .how_we-work .web .foto_web2 {
+    margin-left: 720px;
+    margin-top: -295px; }
+  .how_we-work .web_text {
+    margin-top: 42px;
+    margin-left: 973px;
+    width: 334px;
+    height: 31px;
+    background-color: #8dc63f;
+    color: white;
+    font-size: 22px;
+    border-radius: 3px;
+    font-family: 'Open Sans', sans-serif; }
+  .how_we-work .web_text1 {
+    width: 430px;
+    height: 53px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 36px;
+    margin-left: 972px; }
+  .how_we-work .web_text2 {
+    color: #7e889b;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    margin-left: 973px;
+    margin-top: 36px; }
+  .how_we-work .web_text3 {
+    width: 143px;
+    height: 31px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #252525;
+    background-color: white;
+    margin-left: 973px;
+    margin-top: 35px; }
+  .how_we-work .seo .foto_seo {
+    margin-left: 579px;
+    margin-top: 15px; }
+  .how_we-work .seo .foto_seo1 {
+    width: 326px;
+    height: 326px;
+    padding: 10px;
+    border-radius: 50%;
+    border: 14px dotted #fe476a;
+    margin-left: 1171px;
+    margin-top: 20px;
+    position: absolute; }
+    .how_we-work .seo .foto_seo1 .seo_icon {
+      margin-top: -250px;
+      margin-left: -110px; }
+  .how_we-work .seo .seo_text {
+    margin-top: 42px;
+    margin-left: 422px;
+    width: 334px;
+    height: 31px;
+    background-color: #8dc63f;
+    color: white;
+    font-size: 22px;
+    border-radius: 3px;
+    font-family: 'Open Sans', sans-serif; }
+  .how_we-work .seo .seo_text1 {
+    width: 430px;
+    height: 53px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 36px;
+    margin-left: 422px; }
+  .how_we-work .seo .seo_text2 {
+    color: #7e889b;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    margin-left: 422px;
+    margin-top: 36px; }
+  .how_we-work .seo .seo_text3 {
+    width: 143px;
+    height: 31px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #252525;
+    background-color: white;
+    margin-left: 422px;
+    margin-top: 35px; }
+  .how_we-work .smm .foto_smm {
+    margin-left: 579px;
+    margin-top: 40px; }
+  .how_we-work .smm .foto_smm1 {
+    width: 326px;
+    height: 326px;
+    padding: 10px;
+    border-radius: 50%;
+    border: 14px dotted #f6c13b;
+    margin-left: 423px;
+    margin-top: 20px;
+    position: absolute; }
+    .how_we-work .smm .foto_smm1 .smm_icon {
+      margin-left: 265px;
+      margin-top: -250px; }
+  .how_we-work .smm .smm_text {
+    margin-top: 42px;
+    margin-left: 972px;
+    width: 80px;
+    height: 31px;
+    background-color: #f6c13b;
+    color: white;
+    font-size: 22px;
+    border-radius: 3px;
+    font-family: 'Open Sans', sans-serif; }
+  .how_we-work .smm .smm_text1 {
+    width: 430px;
+    height: 53px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 36px;
+    margin-left: 972px; }
+  .how_we-work .smm .smm_text2 {
+    color: #7e889b;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    margin-left: 972px;
+    margin-top: 36px; }
+  .how_we-work .smm .smm_text3 {
+    width: 143px;
+    height: 31px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #252525;
+    background-color: white;
+    margin-left: 972px;
+    margin-top: 35px; }
+  .how_we-work .smm .smm_foto2 {
+    margin-left: 577px;
+    margin-top: 40px; }
+  .how_we-work .smm .smm_foto3 {
+    margin-left: 927px;
+    margin-top: -10px; }
+  .how_we-work .browser .browser_foto {
+    margin-top: 32px;
+    margin-left: 454px;
+    background-color: #424550;
+    width: 1008px; }
+  .how_we-work .browser .browser_text {
+    margin-top: -705px;
+    margin-left: 914px;
+    font-size: 13px;
+    color: white;
+    font-family: 'Open Sans', sans-serif; }
+  .how_we-work .browser .browser_text1 {
+    font-size: 10px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 555px;
+    margin-top: 35px; }
+  .how_we-work .browser .browser_foto1 {
+    margin-left: 911px;
+    margin-top: 74px; }
+  .how_we-work .browser .browser_text2 {
+    text-align: center;
+    margin-top: 64px; }
+    .how_we-work .browser .browser_text2 .big {
+      font-size: 62px;
+      color: white;
+      font-family: 'Open Sans', sans-serif; }
+    .how_we-work .browser .browser_text2 .medium {
+      font-size: 52px;
+      color: white;
+      font-family: 'Open Sans', sans-serif; }
+    .how_we-work .browser .browser_text2 .small {
+      font-size: 33px;
+      color: white;
+      font-family: 'Open Sans', sans-serif; }
+  .how_we-work .browser .browser_text3 {
+    background-color: white;
+    width: 208px;
+    height: 42px;
+    font-size: 25px;
+    color: black;
+    font-family: 'Myriad Pro', sans-serif;
+    margin-left: 853px;
+    text-align: center;
+    margin-top: 69px; }
+
+.about_us {
+  width: 100%;
+  height: 1214px;
+  background-color: #f1f2f4;
+  margin-top: 3566px;
+  position: absolute;
+  text-align: center; }
+  .about_us .about_us_text {
+    margin-top: 70px;
+    font-size: 38px;
+    color: #4c4c4c;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold; }
+  .about_us .about_us_text1 {
+    font-size: 14px;
+    color: #7e889b;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 31px; }
+  .about_us .box1 {
+    width: 926px;
+    height: 148px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 492px;
+    margin-top: 72px; }
+    .about_us .box1 .box_text {
+      padding-top: 10px; }
+      .about_us .box1 .box_text .number {
+        padding-top: 10px;
+        margin-left: -700px;
+        font-size: 72px;
+        color: #1fcec3;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold; }
+      .about_us .box1 .box_text .name {
+        font-size: 24px;
+        font-family: 'Open Sans', sans-serif;
+        color: #1fcec3;
+        margin-left: -152px;
+        margin-top: -65px; }
+    .about_us .box1 .box_img {
+      margin-right: 64px; }
+    .about_us .box1 .box_text1 {
+      text-align: left;
+      color: #7e889b;
+      font-size: 14px;
+      padding: 5px;
+      font-family: 'Open Sans', sans-serif; }
+  .about_us .box2 {
+    width: 926px;
+    height: 148px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 492px;
+    margin-top: 220px; }
+    .about_us .box2 .box2_text .number2 {
+      padding-top: 15px;
+      font-size: 72px;
+      color: #4195e1;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      margin-left: 280px; }
+    .about_us .box2 .box2_text .name2 {
+      font-size: 24px;
+      font-family: 'Open Sans', sans-serif;
+      color: #4195e1;
+      margin-top: -65px;
+      margin-left: -80px;
+      padding: 5px; }
+    .about_us .box2 .box2_img {
+      margin-left: 57px; }
+    .about_us .box2 .box2_text1 {
+      text-align: left;
+      color: #7e889b;
+      font-size: 14px;
+      padding: 5px;
+      font-family: 'Open Sans', sans-serif; }
+  .about_us .box3 {
+    width: 926px;
+    height: 148px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 492px;
+    margin-top: 368px; }
+    .about_us .box3 .box3_text {
+      padding-top: 10px; }
+      .about_us .box3 .box3_text .number3 {
+        padding-top: 10px;
+        margin-left: -700px;
+        font-size: 72px;
+        color: #8dc63f;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold; }
+      .about_us .box3 .box3_text .name3 {
+        font-size: 24px;
+        font-family: 'Open Sans', sans-serif;
+        color: #8dc63f;
+        margin-left: -152px;
+        margin-top: -65px; }
+    .about_us .box3 .box3_img {
+      margin-right: 64px; }
+    .about_us .box3 .box3_text1 {
+      text-align: left;
+      color: #7e889b;
+      font-size: 14px;
+      padding: 5px;
+      font-family: 'Open Sans', sans-serif; }
+  .about_us .box4 {
+    width: 926px;
+    height: 148px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 492px;
+    margin-top: 516px; }
+    .about_us .box4 .box4_text .number4 {
+      padding-top: 15px;
+      font-size: 72px;
+      color: #f7ca2d;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      margin-left: 280px; }
+    .about_us .box4 .box4_text .name4 {
+      font-size: 24px;
+      font-family: 'Open Sans', sans-serif;
+      color: #f7ca2d;
+      margin-top: -65px;
+      margin-left: -80px;
+      padding: 5px; }
+    .about_us .box4 .box4_img {
+      margin-left: 57px; }
+    .about_us .box4 .box4_text1 {
+      text-align: left;
+      color: #7e889b;
+      font-size: 14px;
+      padding: 5px;
+      font-family: 'Open Sans', sans-serif; }
+  .about_us .box5 {
+    width: 926px;
+    height: 148px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 492px;
+    margin-top: 665px; }
+    .about_us .box5 .box5_text {
+      padding-top: 10px; }
+      .about_us .box5 .box5_text .number5 {
+        padding-top: 10px;
+        margin-left: -700px;
+        font-size: 72px;
+        color: #a263c4;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold; }
+      .about_us .box5 .box5_text .name5 {
+        font-size: 24px;
+        font-family: 'Open Sans', sans-serif;
+        color: #a263c4;
+        margin-left: -182px;
+        margin-top: -65px; }
+    .about_us .box5 .box5_img {
+      margin-right: 64px; }
+    .about_us .box5 .box5_text1 {
+      text-align: left;
+      color: #7e889b;
+      font-size: 14px;
+      padding: 5px;
+      font-family: 'Open Sans', sans-serif; }
+  .about_us .box6 {
+    width: 926px;
+    height: 148px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 492px;
+    margin-top: 813px; }
+    .about_us .box6 .box6_text .number6 {
+      padding-top: 15px;
+      font-size: 72px;
+      color: #ef5037;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      margin-left: 280px; }
+    .about_us .box6 .box6_text .name6 {
+      font-size: 24px;
+      font-family: 'Open Sans', sans-serif;
+      color: #ef5037;
+      margin-top: -65px;
+      margin-left: -80px;
+      padding: 5px; }
+    .about_us .box6 .box6_img {
+      margin-left: 57px; }
+    .about_us .box6 .box6_text1 {
+      text-align: left;
+      color: #7e889b;
+      font-size: 14px;
+      padding: 5px;
+      font-family: 'Open Sans', sans-serif; }
+
+/*# sourceMappingURL=main.css.map */

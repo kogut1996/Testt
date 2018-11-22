@@ -1,0 +1,31 @@
+header {
+  width: 1920px;
+  height: 112px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(2, 2, 9, 0.28);
+  position: absolute; }
+  header .logo {
+    margin-left: 374px; }
+  header .menu_wrapper .qqq {
+    margin-left: 450px;
+    padding-right: 340px; }
+    header .menu_wrapper .qqq a {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      text-decoration: none;
+      cursor: pointer;
+      border: 15px solid rgba(0, 255, 255, 0); }
+      header .menu_wrapper .qqq a:hover {
+        text-decoration: underline;
+        color: white; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  overflow-x: hidden; }
+
+/*# sourceMappingURL=header.css.map */

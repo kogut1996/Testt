@@ -1,0 +1,41 @@
+.what_we_do{
+  width:1920px;
+  height: 445px;
+  margin-top: -3px;
+  position: relative;
+  background-color: #f1f2f4;
+  .box-text{
+    font-size: 24px;
+    text-align: center;
+    margin-left: 471px;
+    margin-top: 69px;
+    position: absolute;
+    color: #78797a;
+    .blue{color:#3c9ad8;}
+    .red{color:  #fe476a;}
+    .black{text-decoration:line-through;}
+    }
+  }
+.icon{
+  display: flex;
+  justify-content: center;
+.block_icon{
+  margin-top: 165px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  .seo1{
+  .img1{margin-left: 60px;}
+  .seo2 {
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    color: #252525;
+    display: flex;
+    justify-content: center;
+    }
+   }
+  }
+}
+
